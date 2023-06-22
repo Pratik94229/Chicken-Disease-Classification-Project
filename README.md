@@ -91,7 +91,9 @@ python app.py
 
 8. Access the app:
 
-Open your browser and go to `http://localhost:5000` to access the application.
+Open your browser and go to 
+
+`http://localhost:5000` to access the application.
 
 ## Conclusion
 
